@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-SortingAlgorithms\bin\Debug\net6.0\cSharp-SortingAlgorithms.exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-SortingAlgorithms\bin\Debug\net6.0\cSharp-SortingAlgorithms.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-SortingAlgorithms\bin\Debug\net6.0\cSharp-SortingAlgorithms.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-SortingAlgorithms\bin\Debug\net6.0\cSharp-SortingAlgorithms.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-SortingAlgorithms\bin\Debug\net6.0\cSharp-SortingAlgorithms.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-SortingAlgorithms\obj\Debug\net6.0\cSharp-SortingAlgorithms.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-SortingAlgorithms\obj\Debug\net6.0\cSharp-SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-SortingAlgorithms\obj\Debug\net6.0\cSharp-SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-SortingAlgorithms\obj\Debug\net6.0\cSharp-SortingAlgorithms.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-SortingAlgorithms\obj\Debug\net6.0\cSharp-SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-SortingAlgorithms\obj\Debug\net6.0\cSharp-SortingAlgorithms.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-SortingAlgorithms\obj\Debug\net6.0\refint\cSharp-SortingAlgorithms.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-SortingAlgorithms\obj\Debug\net6.0\cSharp-SortingAlgorithms.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-SortingAlgorithms\obj\Debug\net6.0\cSharp-SortingAlgorithms.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-SortingAlgorithms\obj\Debug\net6.0\ref\cSharp-SortingAlgorithms.dll
